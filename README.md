@@ -1,6 +1,7 @@
 # RobotVR
 Robot shooting game in VR.  
-This is [Download](https://github.com/rn9dfj3/robot_vr/releases)!!!
+This is [Download](https://github.com/rn9dfj3/robot_vr/releases)!!!  
+![](https://github.com/rn9dfj3/robot_vr/blob/master/thum.png)
 # How to Play
 1. Click RobotVR.exe.
 1. Select your robot (.vrm).  
